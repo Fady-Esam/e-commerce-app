@@ -2,7 +2,6 @@
 
  Flutter With Firebase E-Commerce App with MVVM Architecture and BLoC Pattern
 
-## Getting Started
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="45"/> 
