@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "338663398042",
+    "project_id": "ewsrtes-72f2a",
+    "storage_bucket": "ewsrtes-72f2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338663398042:android:882110075f8fef22325d23",
+        "android_client_info": {
+          "package_name": "com.example.ewsrtes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAajzv_vuWRyF_rNLTDVVneSU1gxUEPXg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338663398042:android:6324c6de38d4f243325d23",
+        "android_client_info": {
+          "package_name": "com.ewsrtes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAajzv_vuWRyF_rNLTDVVneSU1gxUEPXg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
