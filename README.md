@@ -1,6 +1,8 @@
-# E-Commerce
+# Flutter E-Commerce App
 
- Flutter With Firebase E-Commerce App with MVVM Architecture and BLoC Pattern
+ <h3>
+  Developed with Firebase using MVVM Architecture and BLoC Pattern. It includes authentication and provides shopping, navigation, and browsing a variety of products easily. Users can search for the desired product, access its details and view various categories such as phones, laptops, books, watches, accessories, clothes, and electronics. Features include adding to favorites, carts, and checking out, as well as changing the theme
+ </h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
