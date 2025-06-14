@@ -5,7 +5,7 @@ A powerful e-commerce application built with Flutter, offering a smooth and intu
 ---
 ## ✨ Features
 
-- 🔐 Secure authentication (Login / Signup) 
+- 🔐 Secure authentication (Login / Signup / Logout)
 - 🛍️ Product browsing and navigation 
 - 🔎 Product search functionality 
 - 📄 View detailed product information 
