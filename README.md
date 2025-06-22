@@ -1,6 +1,7 @@
 # 🛒 Flutter E-Commerce App
 
-A powerful e-commerce application built with Flutter, offering a smooth and intuitive shopping experience. Optimized for performance, user-centric navigation, and seamless backend integration.
+A powerful e-commerce application built with Flutter, offering a smooth and intuitive shopping experience.  
+Optimized for performance, user-centric navigation, and seamless backend integration.
 
 ---
 ## ✨ Features
