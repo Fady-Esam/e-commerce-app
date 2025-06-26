@@ -11,8 +11,14 @@ Optimized for performance, user-centric navigation, and seamless backend integra
 - 🔎 Product search functionality 
 - 📄 View detailed product information 
 - 🗂️ Browse by categories (Phones, Laptops, Books, Watches, Accessories, Clothes, Electronics) 
-- ❤️ Add/Remove products to/from favorites - 🛒 Add to cart and checkout
+- ❤️ Add/Remove products to/from favorites
+- 🛒 Add to cart, update quantities, complete checkout, and view orders screen
+- 🧾 Track recently viewed items and saved favorites list
+- 👤 View and manage user info on the profile screen
 - 🎨 Light/Dark theme switching
+
+
+
 
 ---
 
