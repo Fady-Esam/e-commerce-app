@@ -2,7 +2,7 @@
 
 A powerful e-commerce application built with Flutter, offering a smooth and intuitive shopping experience.  
 Optimized for performance, user-centric navigation, and leverages **Firebase** for authentication, storage, and scalable cloud infrastructure.    
-Built with MVVM architecture for scalability and maintainability and BLoC pattern for predictable and scalable UI logic.
+Built with **MVVM** architecture for scalability and maintainability and **BLoC** pattern for predictable and scalable UI logic.
 
 ---
 ## ✨ Features
