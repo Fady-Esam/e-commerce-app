@@ -1,6 +1,6 @@
 # 🛒 Flutter E-Commerce App
 
-A powerful e-commerce application built with Flutter, offering a smooth and intuitive shopping experience.  
+A powerful e-commerce application built with **Flutter**, offering a smooth and intuitive shopping experience.  
 Optimized for performance, user-centric navigation, and leverages **Firebase** for authentication, storage, and scalable cloud infrastructure.    
 Built with **MVVM** architecture for scalability and maintainability and **BLoC** pattern for predictable and scalable UI logic.
 
@@ -8,8 +8,8 @@ Built with **MVVM** architecture for scalability and maintainability and **BLoC*
 ## ✨ Features
 
 - 🔐 Secure authentication (Login / Signup / Logout)
-- 🛍️ Product browsing and navigation 
-- 🔎 Product search functionality 
+- 🛍️ Product browsing and smooth navigation 
+- 🔎 Product search functionality quickly and efficiently  
 - 📄 View detailed product information 
 - 🗂️ Browse by categories (Phones, Laptops, Books, Watches, Accessories, Clothes, Electronics) 
 - ❤️ Add/Remove products to/from favorites
@@ -17,8 +17,6 @@ Built with **MVVM** architecture for scalability and maintainability and **BLoC*
 - 🧾 Track recently viewed items and saved favorites list
 - 👤 View and manage user info on the profile screen
 - 🎨 Light/Dark theme switching
-- 🗂️ MVVM Architecture with a clear separation of concerns between Model, View, and ViewModel layers for scalability and maintainability
-- 🧠 Robust State Management built with the BLoC pattern for predictable and scalable UI logic
 
 
 
