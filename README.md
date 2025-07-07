@@ -5,7 +5,7 @@ Optimized for performance, user-centric navigation, and leverages **Firebase** f
 Built with **MVVM** architecture for scalability and maintainability and **BLoC** pattern for predictable and scalable UI logic.
 
 ---
-## ✨ Features
+## ✨ Key Features
 
 - 🔐 Secure authentication (Login / Signup / Logout)
 - 🛍️ Product browsing and smooth navigation 
